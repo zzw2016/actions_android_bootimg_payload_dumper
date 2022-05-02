@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/V12.5.5.0.RKHCNXM/miui_ALIOTH_V12.5.5.0.RKHCNXM_c5a30ac282_11.0.zip
+  ROM_URL: https://bigota.d.miui.com/V13.0.31.1.28.DEV/miui_ZEUS_V13.0.31.1.28.DEV_489cd5e1e8_12.0.zip
   TZ: Asia/Shanghai
 
 jobs:
